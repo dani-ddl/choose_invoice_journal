@@ -10,7 +10,8 @@
     'website': 'http://www.xtendoo.com',
     'category': 'Extra Tools',
     'depends': [
-        'base'
+        'base',
+        'account'
     ],
     'license': 'AGPL-3',
     'data': [
